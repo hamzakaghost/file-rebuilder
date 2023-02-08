@@ -1,5 +1,5 @@
 # file-rebuilder
-PDF, WORD, EXCEL TO XLS
+PDF, WORD, EXCEL TO XLS (user v2 for optimized code)
 Save the code to a file with a .py extension, for example, "process_files.py".
 Open a terminal or command prompt on your computer.
 Navigate to the folder where the script is saved using the cd command.
